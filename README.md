@@ -1,4 +1,4 @@
-#Term Deposit Marketing
+## Term Deposit Marketing
 
 Goal: We want to predict whether a customer at a bank will buy a subscription to a short term deposit. We have the following information about the customers
 
